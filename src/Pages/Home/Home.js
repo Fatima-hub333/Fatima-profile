@@ -38,7 +38,7 @@ function Home() {
           </div>
           <div data-aos="fade-right" className="info">
             <h1 data-aos="fade-left" data-aos-delay="100">
-              Hey, I'm Fatima Zahir,
+              Hey, I'm Fatima,
               <br />
               Fullstack Web Developer.
             </h1>
