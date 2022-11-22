@@ -30,9 +30,26 @@ import FinishedCrowdedMobile from "./images/portfolio/mobile/Finshed-Crowded.png
 
 //real-estate
 import RealEstateWebAppDesktop from "./images/portfolio/desktop/real-estate.png";
-
+import RealEstateWebAppTablet from "./images/portfolio/tablet/real-estate.png";
+import RealEstateWebAppMobile from "./images/portfolio/mobile/real-estate.png";
 
 const projects = [
+  {
+    id: 1,
+    category: "NextJS/React",
+    title: "Real-Estate Web App",
+    lang: ["HTML", "CSS", "JS", "React", "NextJS"],
+    url: "https://github.com/Fatima-hub333/real-estate-web-app",
+    live: "https://real-estate-web-app-tau.vercel.app/",
+    slug: "next-website",
+    info: "It's a fully functional real-estate web app. Here user can find a property for sale, property for rent & each roperti details with price, amenities, and description.",
+    images: {
+      mobil: RealEstateWebAppDesktop,
+      tablet: RealEstateWebAppTablet,
+      desktop: RealEstateWebAppMobile,
+    },
+  },
+
   {
     id: 1,
     category: "HTML",
