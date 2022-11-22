@@ -28,6 +28,10 @@ import FinishedCrowdedDesktop from "./images/portfolio/desktop/Finshed-Crowded.p
 import FinishedCrowdedTablet from "./images/portfolio/tablet/Finshed-Crowded.png";
 import FinishedCrowdedMobile from "./images/portfolio/mobile/Finshed-Crowded.png";
 
+//real-estate
+import RealEstateWebAppDesktop from "./images/portfolio/desktop/real-estate.png";
+
+
 const projects = [
   {
     id: 1,
